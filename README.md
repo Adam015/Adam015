@@ -16,7 +16,7 @@ I speak **French** and **English** fluently, and I’m currently learning **Germ
 ### Fun Facts:
 - Outside of tech, I’m into **cross-training** and **martial arts**—always looking to push my physical and mental boundaries.
 - I'm a big fan of **racing cars** and **motorcycles**—the thrill of speed and engineering precision fascinates me.
-- I speak **French** and **English**, and I’m learning **German** as part of my plan to live and work in Germany.
+- I speak **Arabic**, **French** and **English**, and I’m learning **German** as part of my plan to live and work in Germany.
 
 ### Let's Connect:
 I'm always open to collaboration and learning. If you're into tech, cars, or just want to chat, feel free to reach out!
