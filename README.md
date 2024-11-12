@@ -1,14 +1,14 @@
 # Hi, I'm Adam 👋
 
 ### About Me:
-I'm a passionate learner diving into the worlds of **data science**, **machine learning**, **software engineering**, and **mathematics**. My curiosity drives me to understand complex systems, build meaningful projects, and apply these skills to real-world problems.
+I'm a passionate learner exploring software engineering, business informatics, and trading. My journey is driven by a deep curiosity to understand complex systems, build meaningful backend projects, and apply these skills to real-world applications.
 
-Though I'm early in my journey, I'm committed to mastering the technical foundations that will allow me to innovate in the field of machine learning and beyond. I’m also deeply interested in **racing cars**, and I see parallels between the precision, strategy, and performance optimization in both motorsports and tech.
+Currently, I’m focused on mastering backend development with languages like Rust, Go, Java, and C++. My aim is to create robust, scalable systems. Alongside, I’m gaining expertise in trading futures and analyzing markets to build a sustainable trading strategy.
 
-I speak **French** and **English** fluently, and I’m currently learning **German**. My goal is to eventually move to **Germany** to study and pursue my tech career, where I can immerse myself in one of the world’s leading hubs for innovation and engineering.
+I'm fluent in Arabic, French, English, and I’m learning German, with plans to eventually study business informatics in Germany. This journey combines my passion for technology, data, and practical application in one of the world’s leading hubs for innovation and engineering.
 
-### Goals:
-- 🌱 **Become a Machine Learning Engineer**: My dream is to work at the intersection of **machine learning** and **software engineering**, contributing to projects that push the boundaries of AI and automation.
+### Goals
+- 🌐 **Backend Engineering** : I'm building a solid foundation in low-level languages, systems programming, and backend frameworks to create efficient, scalable systems..
 - 🎯 **Study in Germany**: I aim to continue my education in **Germany**, gaining both academic knowledge and hands-on experience in the tech scene there.
 - 🚀 **Work on impactful projects**: I'm driven to create meaningful projects, whether they be in AI, data science, or other fields of technology.
 - 💡 **Collaborate on open-source**: Open-source collaboration excites me. As soon as I build up my skill set, I can't wait to contribute to the community and be part of exciting, innovative projects.
